@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="accordion">
+
+        <attr name="isExpanded" format="boolean"/>
+        <attr name="isPartitioned" format="boolean"/>
+        <attr name="isAnimated" format="boolean"/>
+        <attr name="headingString" format="string"/>
+        <attr name="headingTextSize" format="dimension"/>
+        <attr name="headingColor" format="color"/>
+        <attr name="headingDrawable" format="reference"/>
+        <attr name="headingDrawableWidth" format="dimension"/>
+        <attr name="headingDrawableHeight" format="dimension"/>
+        <attr name="headingBackground" format="reference"/>
+        <attr name="headingBackgroundColor" format="color"/>
+        <attr name="bodyBackground" format="reference"/>
+        <attr name="bodyBackgroundColor" format="color"/>
+
+    </declare-styleable>
+</resources>
